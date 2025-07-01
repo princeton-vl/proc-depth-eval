@@ -1,0 +1,11 @@
+[project]
+name = "proc-depth-eval"
+version = "0.1.0"
+description = "Evaluate monocular depth estimation robustness."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "numpy>=2.3.1",
+    "opencv-python>=4.11.0.86",
+    "torch>=2.7.1",
+]
