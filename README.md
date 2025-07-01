@@ -34,6 +34,6 @@ This repository includes the dataset and evaluation code for measuring model rob
 <img src="variations.png" width='1400'>
 </p>
 
-# Data
+# Procedural Depth Evaluation (PDE) Dataset
 The dataset can be downloaded [here](https://drive.google.com/file/d/1xJa2UX77Wit1EZsNV0ZzxvQfywCr61HP/view?usp=sharing).
 
