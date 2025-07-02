@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations</h1>
+  <a href="https://arxiv.org/abs/2507.00981"><h1 align="center">Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations</h1></a>
   <p align="center">
     <strong>Jack Nugent</strong>
     ·
@@ -38,7 +38,7 @@ This repository includes the dataset and evaluation code for measuring model rob
 The dataset can be downloaded [here](https://drive.google.com/file/d/1xJa2UX77Wit1EZsNV0ZzxvQfywCr61HP/view?usp=sharing).
 
 ## Citation
-If you find our Procedural Depth Evaluation useful, please consider citing our academic paper:
+If you find our Procedural Depth Evaluation useful, please consider citing our academic [paper](https://arxiv.org/abs/2507.00981):
 ```
 @misc{nugent2025evaluatingrobustnessmonoculardepth,
       title={Evaluating Robustness of Monocular Depth Estimation with Procedural Scene Perturbations}, 
